@@ -1,0 +1,685 @@
+{
+  "infected_crops": [
+    {
+      "disease": "Apple Black Rot",
+      "prevention_remedies": [
+        "Remove and destroy mummified fruit and infected plant debris to eliminate overwintering fungal spores.",
+        "Prune out diseased branches and cankers to prevent the spread of infection.",
+        "Ensure proper tree spacing and pruning to improve air circulation and reduce humidity.",
+        "Apply fungicides like Captan, Mancozeb, or copper-based sprays at early bud stages.",
+        "Avoid injuries to the bark and fruit, as wounds can serve as entry points for the fungus.",
+        "Practice crop rotation and avoid planting apple trees near old infected orchards."
+      ]
+    },
+    {
+      "disease": "Apple Cedar Rust",
+      "prevention_remedies": [
+        "Remove nearby juniper or red cedar trees, as they serve as alternate hosts for the rust fungus.",
+        "Choose rust-resistant apple varieties to minimize disease occurrence.",
+        "Prune and destroy infected leaves and branches as soon as symptoms appear.",
+        "Apply fungicides like Myclobutanil, Mancozeb, or Sulfur during early growth stages.",
+        "Improve airflow by spacing trees properly and pruning regularly to reduce humidity.",
+        "Monitor weather conditions and apply fungicides before wet conditions favor infection."
+      ]
+    },
+    {
+      "disease": "Apple Rust",
+      "prevention_remedies": [
+        "Avoid planting apple trees near junipers or remove juniper trees within 300 yards of apple orchards.",
+        "Use resistant apple varieties like Liberty, Enterprise, and Redfree.",
+        "Apply protective fungicides, such as Myclobutanil or Mancozeb, during early bud break and throughout the season.",
+        "Prune infected twigs and leaves to prevent the spread of spores.",
+        "Maintain good tree health by ensuring adequate watering, fertilization, and soil drainage.",
+        "Monitor nearby juniper plants for orange galls in the spring and remove them before spores release."
+      ]
+    },
+    {
+      "disease": "Apple Scab",
+      "prevention_remedies": [
+        "Plant scab-resistant apple varieties such as Enterprise, Liberty, and GoldRush.",
+        "Apply fungicides like Captan, Mancozeb, or Sulfur before bud break and continue during fruit development.",
+        "Remove fallen leaves and fruit to prevent fungal spores from overwintering in orchard debris.",
+        "Avoid overhead irrigation to minimize leaf wetness, which encourages fungal growth.",
+        "Ensure proper pruning to increase airflow and reduce humidity around trees.",
+        "Rotate crops or avoid planting apple trees in the same infected locations for multiple seasons."
+      ]
+    },
+    {
+      "disease": "Bell Pepper Leaf Spot",
+      "prevention_remedies": [
+        "Rotate crops yearly and avoid planting peppers in the same soil where leaf spot was present in previous seasons.",
+        "Use copper-based fungicides or Mancozeb to prevent and control the disease.",
+        "Ensure proper plant spacing to promote air circulation and reduce leaf wetness.",
+        "Remove and destroy infected leaves and debris to prevent the spread of bacteria and fungi.",
+        "Avoid overhead watering and irrigate at the base of plants to keep leaves dry.",
+        "Use disease-resistant pepper varieties when available to minimize infection risk."
+      ]
+    },
+    {
+      "disease": "Bell Pepper Bacterial Spot",
+      "prevention_remedies": [
+        "Use certified disease-free seeds and resistant varieties to prevent infection.",
+        "Avoid overhead irrigation to keep foliage dry and reduce bacterial spread.",
+        "Remove and destroy infected leaves and plants to minimize disease spread.",
+        "Disinfect gardening tools with a 10% bleach solution to prevent bacterial transmission.",
+        "Rotate crops with non-host plants for at least two years to break the bacterial cycle.",
+        "Apply copper-based bactericides or streptomycin sprays as preventive measures."
+      ]
+    },
+    {
+      "disease": "Corn Common Rust",
+      "prevention_remedies": [
+        "Plant resistant corn hybrids to reduce susceptibility to rust infections.",
+        "Rotate crops with non-host species to prevent rust spore accumulation in the soil.",
+        "Monitor fields regularly and apply fungicides at the first sign of rust pustules.",
+        "Ensure proper spacing between plants to improve airflow and reduce humidity.",
+        "Destroy infected plant debris after harvest to minimize overwintering rust spores.",
+        "Use fungicides containing azoxystrobin, pyraclostrobin, or propiconazole when needed."
+      ]
+    },
+    {
+      "disease": "Corn Ear Rot",
+      "prevention_remedies": [
+        "Plant corn hybrids with good husk coverage to reduce fungal infection risk.",
+        "Harvest corn promptly and dry grains to below 15% moisture to prevent fungal growth.",
+        "Avoid excessive nitrogen fertilization, which can promote fungal infections.",
+        "Improve field drainage to prevent excess moisture, which favors ear rot fungi.",
+        "Remove and destroy infected plant residues after harvest to prevent future infections.",
+        "Use fungicides like propiconazole or pyraclostrobin at silking stage if necessary."
+      ]
+    },
+    {
+      "disease": "Corn Fall Army Worm",
+      "prevention_remedies": [
+        "Plant early-maturing corn varieties to escape peak armyworm infestation periods.",
+        "Encourage natural predators such as parasitic wasps and ladybugs to control larvae.",
+        "Monitor plants for early signs of feeding damage and take immediate action.",
+        "Use pheromone traps to monitor adult moth activity and time control measures effectively.",
+        "Apply biological insecticides like Bacillus thuringiensis (Bt) or neem oil for organic control.",
+        "If infestation is severe, apply insecticides such as spinosad, chlorantraniliprole, or lambda-cyhalothrin."
+      ]
+    },
+    {
+      "disease": "Corn Grasshopper",
+      "prevention_remedies": [
+        "Keep field borders and surrounding weeds trimmed to reduce grasshopper egg-laying sites.",
+        "Encourage natural predators like birds and parasitic flies to control grasshopper populations.",
+        "Apply insecticides early when grasshoppers are in the nymph stage, as they are easier to control.",
+        "Use biological control options such as Nosema locustae spores (Nolo Bait) to target young grasshoppers.",
+        "Avoid planting corn near heavily infested grassland areas to minimize migration.",
+        "Use pyrethroid-based insecticides if populations exceed economic thresholds."
+      ]
+    },
+    {
+      "disease": "Corn Gray Leaf Spot",
+      "prevention_remedies": [
+        "Plant resistant corn hybrids that have shown tolerance to Gray Leaf Spot. Resistant varieties can significantly reduce disease severity, even under favorable conditions.",
+        "Practice proper crop rotation by planting non-host crops such as soybeans or wheat for at least one season to reduce fungal inoculum in the soil.",
+        "Improve air circulation by using appropriate row spacing and proper plant population density. Denser plantings increase humidity and favor disease development.",
+        "Remove and destroy corn residue after harvest by tilling it under the soil. The fungus overwinters in infected plant debris, so residue management is crucial.",
+        "Apply fungicides like Pyraclostrobin (Headline), Azoxystrobin (Quadris), or Propiconazole (Tilt) at VT (tasseling) to R1 (silking) stage for effective control.",
+        "Regularly scout for early signs of infection, such as small, rectangular gray lesions on lower leaves, and take immediate action if symptoms appear."
+      ]
+    },
+    {
+      "disease": "Corn Leaf Beetle",
+      "prevention_remedies": [
+        "Rotate crops regularly, as continuous corn planting provides an ideal environment for corn leaf beetle populations to thrive. Alternate with legumes or wheat to disrupt their life cycle.",
+        "Use trap crops like sorghum or millet around the edges of cornfields to attract and manage beetles before they infest the main crop.",
+        "Apply systemic insecticides such as Imidacloprid (Admire), Thiamethoxam (Cruiser), or Lambda-cyhalothrin (Warrior) during the early stages of infestation to prevent further damage.",
+        "Encourage natural predators like ladybugs and parasitic wasps by planting flowering plants near cornfields, which attract beneficial insects that prey on leaf beetles.",
+        "Regularly inspect young corn plants for signs of leaf beetle feeding, such as small holes or tattered leaf edges, and take control measures before extensive defoliation occurs.",
+        "Keep field borders clean by eliminating weeds and alternative host plants, which serve as breeding grounds for corn leaf beetles."
+      ]
+    },
+    {
+      "disease": "Corn Leaf Blight",
+      "prevention_remedies": [
+        "Plant disease-resistant corn hybrids to reduce susceptibility to fungal pathogens causing leaf blight. Breeding programs have developed hybrids with strong resistance.",
+        "Use proper crop rotation, avoiding planting corn in the same field for consecutive years. This practice reduces the survival of fungal spores in plant debris.",
+        "Improve field drainage and minimize leaf wetness by using raised beds, optimizing irrigation schedules, and avoiding excessive overhead watering.",
+        "Apply foliar fungicides containing Azoxystrobin (Quadris), Pyraclostrobin (Headline), or Propiconazole (Tilt) at the first signs of leaf blight for effective management.",
+        "Remove and destroy infected plant residues after harvest to prevent overwintering of fungal spores, which can reinfect the next season's crop.",
+        "Monitor fields regularly for early symptoms, including elongated tan lesions with dark margins, and apply control measures promptly to prevent severe outbreaks."
+      ]
+    },
+    {
+      "disease": "Corn Leaf Spot",
+      "prevention_remedies": [
+        "Select corn hybrids that exhibit genetic resistance to common leaf spot pathogens. Resistant varieties are less likely to suffer severe infections.",
+        "Use proper crop rotation by alternating corn with non-host crops like soybeans or sorghum, which reduces fungal inoculum in the soil.",
+        "Implement proper irrigation management to avoid excessive moisture on leaves, as prolonged leaf wetness promotes fungal infection and disease spread.",
+        "Apply protectant fungicides such as Chlorothalonil, Mancozeb, or Strobilurin-based products during high-risk periods when weather conditions favor disease development.",
+        "Destroy infected plant debris after harvest to prevent overwintering fungi from surviving on residue and reinfecting new crops the following season.",
+        "Conduct regular field scouting, especially in humid conditions, to identify early signs of small, circular brown lesions and take corrective action before the disease spreads."
+      ]
+    },
+    {
+      "disease": "Corn Stem Borer",
+      "prevention_remedies": [
+        "Use corn hybrids that have been genetically modified with Bt (Bacillus thuringiensis) traits, which provide effective resistance against corn stem borers.",
+        "Employ crop rotation practices by planting non-host crops such as soybeans, wheat, or sorghum to break the life cycle of the pest and reduce larval populations.",
+        "Release biological control agents like Trichogramma wasps, which parasitize corn borer eggs, reducing the number of larvae that hatch and cause damage.",
+        "Apply targeted insecticides such as Spinosad, Emamectin Benzoate, or Chlorantraniliprole (Coragen) at the early larval stage when borers are most vulnerable.",
+        "Remove and destroy corn stubble and plant residues after harvest to eliminate overwintering sites for larvae, reducing infestations in the next growing season.",
+        "Scout fields weekly for signs of corn stem borer activity, such as shothole feeding on leaves or sawdust-like frass near stem entry points, and take immediate control measures."
+      ]
+    },
+    {
+      "disease": "Corn Streak Virus",
+      "prevention_remedies": [
+        "Plant resistant corn varieties, such as those developed through selective breeding, to reduce susceptibility to Corn Streak Virus.",
+        "Control leafhopper populations, which transmit the virus, by using insecticides like imidacloprid or neem-based organic sprays.",
+        "Implement crop rotation with non-host plants like legumes or small grains to break the disease cycle and reduce viral buildup in the field.",
+        "Remove and destroy infected plants as soon as symptoms appear to prevent further spread of the virus to healthy crops.",
+        "Apply reflective mulches to repel leafhoppers and reduce the likelihood of virus transmission.",
+        "Avoid planting corn near fields with known leafhopper infestations or previously infected crops, as the virus can persist in nearby vegetation."
+      ]
+    },
+    {
+      "disease": "Cotton Aphid",
+      "prevention_remedies": [
+        "Encourage natural predators such as ladybugs, lacewings, and parasitic wasps, which help control aphid populations naturally.",
+        "Use insecticidal soaps or neem oil sprays early in the season to reduce aphid numbers before they become a severe problem.",
+        "Plant trap crops like mustard or sunflowers to attract aphids away from cotton plants, reducing direct damage.",
+        "Avoid excessive nitrogen fertilization, as high nitrogen levels promote excessive plant growth that attracts aphids.",
+        "Use reflective mulches or aluminum foil barriers to deter aphids from landing on cotton plants and feeding on them.",
+        "Monitor fields regularly for aphid infestations, and take action early to prevent their rapid multiplication and virus transmission."
+      ]
+    },
+    {
+      "disease": "Cotton Boll Worm",
+      "prevention_remedies": [
+        "Plant genetically modified Bt cotton, which produces a toxin that kills bollworms and reduces infestation rates.",
+        "Use pheromone traps to monitor bollworm populations and implement timely insecticide applications before infestations become severe.",
+        "Rotate cotton crops with non-host plants such as cereals or legumes to disrupt the life cycle of bollworms.",
+        "Release biological control agents like Trichogramma wasps, which parasitize bollworm eggs and help suppress their populations.",
+        "Apply insecticides such as spinosad, emamectin benzoate, or chlorantraniliprole in a targeted manner to control larvae while minimizing resistance development.",
+        "Destroy crop residues after harvest to eliminate overwintering larvae and prevent future outbreaks."
+      ]
+    },
+    {
+      "disease": "Corn Mealy Bug",
+      "prevention_remedies": [
+        "Introduce natural predators such as ladybugs and lacewings, which feed on mealybugs and help keep their populations under control.",
+        "Apply neem oil or insecticidal soaps to infested plants to disrupt the protective waxy coating of mealybugs and cause desiccation.",
+        "Encourage the growth of beneficial fungi like Beauveria bassiana, which naturally infect and kill mealybugs in the field.",
+        "Prune and destroy heavily infested corn plants to prevent the spread of mealybugs to healthy crops.",
+        "Implement crop rotation and avoid planting corn near previously infected fields to break the life cycle of mealybugs.",
+        "Use sticky traps to monitor and reduce adult mealybug populations before they establish on crops."
+      ]
+    },
+    {
+      "disease": "Cotton Bacterial Blight",
+      "prevention_remedies": [
+        "Plant resistant cotton varieties that are less susceptible to bacterial blight and have been bred for improved disease resistance.",
+        "Use certified disease-free seeds and treat seeds with bactericides like copper-based compounds before planting to prevent infection.",
+        "Rotate cotton crops with non-host plants to minimize bacterial presence in the soil and break disease cycles.",
+        "Avoid overhead irrigation and water at the base of plants to prevent moisture accumulation on leaves, which encourages bacterial growth.",
+        "Remove and destroy infected plant debris and weeds that may harbor bacteria and serve as secondary infection sources.",
+        "Apply copper-based bactericides or streptomycin sprays as preventive measures in fields with a history of bacterial blight outbreaks."
+      ]
+    },
+    {
+      "disease": "Cotton Red Bug",
+      "prevention_remedies": [
+        "Use insecticidal sprays containing pyrethroids or neem-based products to control red bug infestations in cotton fields.",
+        "Encourage natural predators such as birds and predatory beetles that feed on red bug larvae and reduce their populations.",
+        "Remove weeds and alternate host plants near cotton fields, as these can harbor red bugs and provide breeding sites.",
+        "Use light traps to monitor red bug activity and implement control measures early before populations increase significantly.",
+        "Apply systemic insecticides like imidacloprid during the early stages of infestation to minimize damage to cotton bolls.",
+        "Maintain field hygiene by clearing plant debris and crop residues that can serve as hiding spots for red bugs during off-seasons."
+      ]
+    },
+    {
+      "disease": "Cotton White Fly",
+      "prevention_remedies": [
+        "Introduce parasitoid wasps like Encarsia formosa, which lay eggs inside whitefly larvae and help control their populations naturally.",
+        "Apply insecticidal soaps or neem oil to target and eliminate whitefly infestations while avoiding harm to beneficial insects.",
+        "Use yellow sticky traps to monitor and capture adult whiteflies before they lay eggs on cotton plants.",
+        "Practice crop rotation with non-host crops such as legumes to reduce whitefly populations over time.",
+        "Avoid excessive pesticide use, as it can kill natural enemies of whiteflies and lead to outbreaks due to pesticide resistance.",
+        "Maintain proper plant spacing and avoid over-fertilization, as dense, nitrogen-rich crops are more attractive to whiteflies."
+      ]
+    },
+    {
+      "disease": "Sugarcane Bacterial Blight",
+      "prevention_remedies": [
+        "Plant disease-free sugarcane seed material to prevent the introduction of bacterial blight into new fields. Use only certified healthy cane sets from reputable sources.",
+        "Practice proper field sanitation by removing and destroying infected plants, crop residues, and weeds that may harbor the bacteria. This reduces the risk of disease spread in subsequent plantings.",
+        "Maintain optimal soil fertility and avoid excessive nitrogen fertilization, as it can make plants more susceptible to bacterial infections. Balanced fertilization with phosphorus and potassium strengthens plant immunity.",
+        "Ensure proper irrigation management by avoiding waterlogging, as excess moisture creates favorable conditions for bacterial growth. Use drip irrigation or furrow irrigation to keep leaves dry.",
+        "Apply copper-based bactericides or Bordeaux mixture as a preventive spray to suppress bacterial blight, especially during early growth stages when plants are more vulnerable.",
+        "Rotate sugarcane with non-host crops like legumes or cereals to break the bacterial cycle and reduce disease incidence in the following planting seasons."
+      ]
+    },
+    {
+      "disease": "Sugarcane Red Rust",
+      "prevention_remedies": [
+        "Use rust-resistant sugarcane varieties, as genetic resistance is the most effective way to manage red rust in sugarcane fields.",
+        "Regularly scout fields for early symptoms of rust, such as reddish-brown pustules on leaves, and remove affected leaves to prevent spore spread.",
+        "Maintain good field hygiene by clearing plant debris and weeds, as they can serve as alternate hosts for rust fungi and increase infection risk.",
+        "Apply fungicides such as triazoles or strobilurins when rust symptoms appear, especially during humid conditions that favor fungal development.",
+        "Space sugarcane plants adequately to improve air circulation, reducing leaf wetness and limiting the conditions necessary for rust spore germination.",
+        "Avoid excessive nitrogen application, as overly lush growth makes plants more susceptible to fungal infections. Use balanced fertilizers rich in potassium and phosphorus to enhance plant resistance."
+      ]
+    },
+    {
+      "disease": "Sugarcane Red Rot",
+      "prevention_remedies": [
+        "Select and plant sugarcane varieties that are resistant to red rot, such as Co 0238, Co 86032, and CoS 767, to minimize the risk of infection.",
+        "Use heat-treated or fungicide-treated cane sets for planting, as red rot is often introduced through infected seed material.",
+        "Ensure well-drained soil conditions, as waterlogged fields create favorable environments for fungal pathogens that cause red rot. Implement proper irrigation schedules to avoid prolonged wetness.",
+        "Practice crop rotation with non-host plants such as pulses or cereals to break the disease cycle and reduce pathogen survival in the soil.",
+        "Remove and destroy infected plants immediately upon detection to prevent the spread of the fungus to healthy crops. Burn affected stalks and avoid composting diseased material.",
+        "Apply systemic fungicides such as propiconazole or carbendazim during early growth stages to provide preventive protection against red rot infection."
+      ]
+    },
+    {
+      "disease": "Sugarcane Yellow Rust",
+      "prevention_remedies": [
+        "Grow sugarcane varieties with natural resistance to yellow rust, as this is the most effective way to control the disease and reduce fungicide dependence.",
+        "Monitor fields regularly for signs of yellowish pustules on leaves and apply preventive fungicide sprays, such as triazoles or strobilurins, at the first sign of infection.",
+        "Remove and destroy infected plant material to prevent the spread of fungal spores within the field and to adjacent crops.",
+        "Improve air circulation in fields by maintaining proper row spacing and avoiding dense planting, as humidity favors rust spore development.",
+        "Use balanced fertilization to maintain plant vigor while avoiding excessive nitrogen application, which promotes disease-prone lush growth.",
+        "Rotate sugarcane with non-host crops and avoid planting in fields with a history of rust infections to minimize disease recurrence."
+      ]
+    },
+    {
+      "disease": "Sugarcane Mosaic",
+      "prevention_remedies": [
+        "Plant sugarcane varieties that exhibit resistance to mosaic virus, such as Co 740, Co 7201, and Co 997, to reduce the impact of the disease.",
+        "Control aphids and other insect vectors that transmit the mosaic virus by using insecticidal sprays, neem oil, or introducing natural predators such as ladybugs.",
+        "Destroy infected plants immediately upon detection to prevent further spread of the virus to healthy crops. Do not use infected plants as seed material.",
+        "Weed management is crucial, as certain weeds act as reservoirs for the mosaic virus. Regularly clear fields of weeds to minimize virus transmission.",
+        "Avoid planting sugarcane near maize or sorghum fields, as these crops can also serve as hosts for the virus and facilitate its spread.",
+        "Disinfect cutting tools and equipment before and after working with sugarcane plants to prevent mechanical transmission of the virus between fields."
+      ]
+    },
+    {
+      "disease": "Grape Black Rot",
+      "prevention_remedies": [
+        "Prune grapevines regularly to remove infected leaves, tendrils, and fruit clusters. Ensure good air circulation by maintaining proper vine training and spacing between plants.",
+        "Apply fungicides such as mancozeb, myclobutanil, or copper-based products at regular intervals starting in early spring to protect against fungal infections.",
+        "Remove and destroy all fallen leaves and infected grapes at the end of the growing season to prevent the overwintering of fungal spores.",
+        "Avoid overhead irrigation and ensure that vines are watered at the base to minimize leaf wetness, which favors fungal growth.",
+        "Plant disease-resistant grape varieties whenever possible, as some cultivars show greater resistance to black rot than others.",
+        "Use a well-drained site with good sunlight exposure to reduce excessive moisture levels, which can promote fungal development."
+      ]
+    },
+    {
+      "disease": "Grape Esca (Black Measles)",
+      "prevention_remedies": [
+        "Remove and destroy infected wood, including pruning dead or diseased vines, to prevent the spread of the fungi causing Esca.",
+        "Avoid heavy mechanical pruning wounds, as they create entry points for fungal pathogens; instead, use proper pruning techniques and seal large wounds with protective treatments.",
+        "Apply fungicides or biological control agents, such as Trichoderma-based products, to limit the spread of the disease.",
+        "Ensure optimal vine nutrition by maintaining balanced fertilization, as stressed plants are more susceptible to Esca infections.",
+        "Prevent excessive water stress by implementing proper irrigation management and avoiding prolonged wet conditions around the roots.",
+        "Practice vineyard sanitation by removing dead plant material and controlling weeds to minimize fungal reservoirs."
+      ]
+    },
+    {
+      "disease": "Grape Leaf Blight",
+      "prevention_remedies": [
+        "Implement a rigorous canopy management program by pruning vines to improve airflow and light penetration, reducing humidity levels that favor blight development.",
+        "Apply protective fungicides such as azoxystrobin, chlorothalonil, or sulfur-based sprays at critical growth stages.",
+        "Use drip irrigation instead of overhead watering to keep foliage dry and reduce the risk of fungal infection.",
+        "Remove all infected leaves and debris from the vineyard floor at the end of each season to prevent fungal spores from overwintering.",
+        "Choose grape varieties with higher resistance to leaf blight to minimize susceptibility to fungal attacks.",
+        "Monitor vines regularly for symptoms of infection and take immediate action to limit disease spread, such as removing symptomatic leaves and adjusting spray programs."
+      ]
+    },
+    {
+      "disease": "Potato Early Blight",
+      "prevention_remedies": [
+        "Rotate potato crops with non-host plants such as cereals or legumes to break the disease cycle and reduce the presence of fungal spores in the soil.",
+        "Apply fungicides containing chlorothalonil, mancozeb, or azoxystrobin early in the season and repeat applications based on weather conditions and disease presence.",
+        "Space plants properly to allow air circulation, reducing humidity levels that encourage fungal infections.",
+        "Ensure adequate nutrient supply, particularly potassium and calcium, to strengthen plant defenses against early blight.",
+        "Remove and destroy infected plant debris at the end of the growing season to prevent the overwintering of fungal spores in the field.",
+        "Use drip irrigation instead of overhead watering to prevent prolonged leaf wetness, which promotes fungal growth."
+      ]
+    },
+    {
+      "disease": "Potato Late Blight",
+      "prevention_remedies": [
+        "Plant late blight-resistant potato varieties such as Defender, Sarpo Mira, or Caruso to reduce susceptibility to the disease.",
+        "Apply systemic and contact fungicides, including fluazinam, chlorothalonil, or metalaxyl, starting early in the season and following a spray schedule based on disease risk conditions.",
+        "Use certified disease-free seed potatoes to prevent the introduction of late blight spores into the field.",
+        "Remove and destroy infected potato plants and cull piles immediately to prevent the spread of the pathogen.",
+        "Improve drainage and avoid excessive irrigation to reduce soil moisture, as Phytophthora infestans thrives in wet conditions.",
+        "Monitor fields regularly and respond promptly to any signs of late blight by adjusting management practices and increasing fungicide applications if necessary."
+      ]
+    },
+    {
+      "disease": "Rice Bacterial Blight",
+      "prevention_remedies": [
+        "Grow bacterial blight-resistant rice varieties such as IRBB21, IR24, or Samba Mahsuri to minimize disease incidence.",
+        "Avoid excessive nitrogen fertilization, as it promotes lush growth, making plants more vulnerable to bacterial blight.",
+        "Ensure proper water management by maintaining optimal irrigation schedules and avoiding standing water conditions that can facilitate bacterial spread.",
+        "Apply copper-based bactericides or biological control agents such as Bacillus subtilis to help reduce bacterial infections.",
+        "Destroy infected crop residues after harvest and practice crop rotation to limit bacterial survival between growing seasons.",
+        "Regularly inspect rice fields for early symptoms of bacterial blight and take prompt action to remove and destroy affected plants to prevent further spread."
+      ]
+    },
+    {
+      "disease": "Rice Brown Spot",
+      "prevention_remedies": [
+        "Use resistant rice varieties like IR64, Swarna, and BRRI dhan29 to reduce susceptibility to brown spot infections.",
+        "Apply balanced fertilization, including nitrogen, phosphorus, and potassium, to strengthen plant immunity. Zinc supplementation is also beneficial in reducing disease severity.",
+        "Ensure proper water management by maintaining an optimal irrigation schedule and preventing drought stress, which makes plants more vulnerable to infection.",
+        "Remove infected crop residues and weeds from the field after harvest to minimize overwintering fungal spores.",
+        "Apply fungicides such as Mancozeb, Carbendazim, or Propiconazole at the early stages of infection to prevent disease progression.",
+        "Rotate rice with non-host crops like legumes or maize to break the disease cycle and reduce pathogen buildup in the soil."
+      ]
+    },
+    {
+      "disease": "Rice Hissa",
+      "prevention_remedies": [
+        "Use certified disease-free seeds and treat them with fungicides like Thiram or Captan before sowing to eliminate seed-borne infections.",
+        "Practice proper crop rotation with non-rice crops such as pulses, vegetables, or oilseeds to reduce pathogen survival in the soil.",
+        "Optimize plant spacing to allow adequate airflow, reducing humidity levels that favor the development of fungal and bacterial pathogens.",
+        "Regularly monitor rice fields for early symptoms and remove infected plants immediately to prevent disease spread.",
+        "Maintain a balanced nutrient supply with adequate phosphorus and potassium to improve plant resistance against infections.",
+        "Apply recommended fungicides or bactericides, depending on the cause of Hissa, as soon as initial symptoms appear to minimize damage."
+      ]
+    },
+    {
+      "disease": "Rice Leaf Blast",
+      "prevention_remedies": [
+        "Use blast-resistant rice varieties such as IR36, Tetep, and Swarna-Sub1 to minimize the risk of infection.",
+        "Avoid excessive nitrogen fertilizer application, as high nitrogen levels promote excessive leaf growth, making plants more susceptible to the disease.",
+        "Maintain proper field sanitation by removing infected plant debris and volunteer rice plants that may harbor the fungus.",
+        "Ensure proper drainage to prevent water stagnation, as prolonged leaf wetness creates favorable conditions for fungal spores to germinate and spread.",
+        "Apply fungicides such as Tricyclazole, Azoxystrobin, or Propiconazole at the early onset of symptoms to prevent severe outbreaks.",
+        "Monitor weather conditions, as high humidity and warm temperatures favor the development of leaf blast. Adjust irrigation schedules accordingly to keep leaf surfaces dry."
+      ]
+    },
+    {
+      "disease": "Rice Neck Blast",
+      "prevention_remedies": [
+        "Use resistant rice varieties like CO 43, BRRI dhan50, and IR72 to reduce the chances of infection at the neck stage.",
+        "Apply potassium and silica-based fertilizers to strengthen plant cell walls and enhance resistance to fungal infections.",
+        "Maintain an optimal nitrogen fertilization rate, as excessive nitrogen increases plant susceptibility to neck blast.",
+        "Time fungicide applications (e.g., Tricyclazole, Propiconazole) at the panicle initiation and heading stages for effective disease control.",
+        "Ensure a balanced water management system to avoid excessive moisture during the reproductive stage, which can increase infection risk.",
+        "Practice proper field sanitation by plowing under infected plant residues and using crop rotation to limit pathogen survival in the soil."
+      ]
+    },
+    {
+      "disease": "Rice Tungro",
+      "prevention_remedies": [
+        "Use tungro-resistant rice varieties such as Utri Merah, IR64, and TKM 6 to minimize crop losses.",
+        "Control the green leafhopper population, the primary vector of the virus, by using systemic insecticides like Imidacloprid or Thiamethoxam.",
+        "Plant rice at an optimal time to avoid peak leafhopper activity and reduce the risk of infection.",
+        "Avoid continuous rice cropping by implementing crop rotation with non-host crops to disrupt the virus transmission cycle.",
+        "Remove and destroy infected plants as soon as symptoms appear to prevent further spread of the virus within the field.",
+        "Use insect netting or row covers in nursery areas to protect young rice seedlings from leafhopper infestations."
+      ]
+    },
+    {
+      "disease": "Tomato Bacterial Spot",
+      "prevention_remedies": [
+        "Use certified disease-free seeds and treat them with a hot water treatment (50°C for 25 minutes) to eliminate bacterial contamination.",
+        "Rotate crops with non-host plants like lettuce, carrots, or beans to reduce bacterial populations in the soil.",
+        "Avoid overhead irrigation, as splashing water spreads the bacteria. Instead, use drip irrigation or water plants at the base.",
+        "Apply copper-based bactericides like Copper Hydroxide or Copper Oxychloride at the first sign of bacterial spot to slow disease progression.",
+        "Remove and destroy infected leaves and plants to prevent bacterial spread, and disinfect gardening tools after working with infected plants.",
+        "Encourage good airflow by properly spacing tomato plants and pruning lower branches to reduce humidity around the foliage."
+      ]
+    },
+    {
+      "disease": "Tomato Early Blight",
+      "prevention_remedies": [
+        "Rotate tomato crops with non-host plants such as corn, beans, or cabbage for at least three years to reduce the buildup of Alternaria solani spores in the soil.",
+        "Ensure proper plant spacing and prune lower branches to promote good air circulation, reducing humidity and preventing fungal growth on leaves.",
+        "Apply a layer of mulch, such as straw or plastic, to prevent soil from splashing onto the lower leaves, which can carry the fungus and initiate infection.",
+        "Use resistant tomato varieties like Iron Lady, Mountain Magic, and Defiant PhR, which are bred to tolerate early blight infection.",
+        "Apply preventive organic or chemical fungicides such as copper-based sprays, chlorothalonil, or mancozeb during humid weather when the risk of infection is high.",
+        "Water tomato plants at the base using drip irrigation or soaker hoses to keep foliage dry and minimize the spread of early blight spores."
+      ]
+    },
+    {
+      "disease": "Tomato Late Blight",
+      "prevention_remedies": [
+        "Select late blight-resistant tomato varieties such as Plum Regal, Mountain Magic, and Defiant PhR to reduce susceptibility to Phytophthora infestans.",
+        "Avoid overhead irrigation and instead use a drip system or soaker hoses to keep leaves dry, as late blight thrives in moist conditions.",
+        "Remove and destroy infected plant material immediately, including fallen leaves and diseased stems, to prevent the spread of spores in the garden.",
+        "Apply copper-based fungicides or systemic fungicides such as mandipropamid, fluopicolide, or chlorothalonil at regular intervals to protect plants from infection.",
+        "Monitor the weather forecast and apply fungicides proactively before extended periods of humidity or rainfall, which create ideal conditions for late blight development.",
+        "Avoid planting tomatoes near potatoes, as potatoes are also highly susceptible to late blight and can serve as a reservoir for the disease."
+      ]
+    },
+    {
+      "disease": "Tomato Leaf Blight",
+      "prevention_remedies": [
+        "Practice crop rotation by avoiding planting tomatoes in the same soil for at least three years to reduce the survival of fungal spores in the ground.",
+        "Regularly inspect plants for early signs of leaf blight, such as yellowing or brown spots on older leaves, and remove infected leaves immediately to prevent spread.",
+        "Use well-drained soil and raised beds to prevent excessive moisture buildup, which encourages fungal growth and increases leaf blight severity.",
+        "Apply organic solutions such as neem oil or potassium bicarbonate as a preventive treatment, especially during wet and humid conditions.",
+        "Ensure adequate nutrition by fertilizing tomatoes with a balanced NPK fertilizer to promote strong plant growth and resistance against fungal infections.",
+        "Keep the garden area clean by removing weeds and plant debris, which can harbor fungal spores and serve as a source of reinfection."
+      ]
+    },
+    {
+      "disease": "Tomato Leaf Curl",
+      "prevention_remedies": [
+        "Control whiteflies using yellow sticky traps, insecticidal soap, or neem oil, as they are the primary vectors of tomato leaf curl virus.",
+        "Plant resistant tomato varieties such as Tygress, Shanty, and TYLCV-resistant hybrids to minimize the risk of severe infection.",
+        "Use floating row covers or fine mesh netting to physically block whiteflies and other insects that can transmit the virus.",
+        "Avoid excessive nitrogen fertilization, as it promotes rapid, weak plant growth, making tomatoes more vulnerable to leaf curl virus.",
+        "Immediately remove and destroy infected plants to prevent the virus from spreading to nearby healthy tomato plants.",
+        "Weed regularly around tomato plants, as certain weeds (e.g., nightshade and jimsonweed) can act as alternative hosts for whiteflies and the virus."
+      ]
+    },
+    {
+      "disease": "Tomato Leaf Mold",
+      "prevention_remedies": [
+        "Improve air circulation by spacing plants properly, pruning suckers, and removing lower leaves to reduce humidity around tomato foliage.",
+        "Avoid watering plants in the evening, as prolonged leaf wetness overnight creates ideal conditions for mold spores to germinate.",
+        "Apply copper-based fungicides or biofungicides containing Bacillus subtilis at the first sign of mold to prevent the disease from spreading.",
+        "Choose resistant tomato varieties like Pink Cherry, Estiva, or Buffalo, which have demonstrated tolerance against leaf mold infections.",
+        "Keep greenhouse or indoor growing areas well-ventilated by using exhaust fans, open vents, or dehumidifiers to reduce excess moisture.",
+        "Disinfect gardening tools, trellises, and greenhouse structures regularly to prevent cross-contamination between infected and healthy plants."
+      ]
+    },
+    {
+      "disease": "Tomato Mosaic Virus",
+      "prevention_remedies": [
+        "Immediately remove any plants showing symptoms of ToMV to prevent the spread of the virus. Dispose of infected plants by burning them or sealing them in a plastic bag for landfill disposal.",
+        "Regularly disinfect tools and wash hands with soap and water to reduce the spread of the virus between plants.",
+        "Remove perennial weeds and avoid growing tomatoes in greenhouses that also contain perennial ornamentals, as they can be a reservoir for viruses.",
+        "The virus can spread through tobacco, so avoid smoking or handling tobacco near tomato plants.",
+        "Treat seeds with a 10% solution of trisodium phosphate for 15 minutes or heat dry seeds at 70°C (158°F) for 2-4 days to eliminate viruses in the seed without inhibiting germination.",
+        "Control aphids, leafhoppers, whiteflies, and cucumber beetles, which can spread the virus."
+      ]
+    },
+    {
+      "disease": "Tomato Septoria Leaf Spot",
+      "prevention_remedies": [
+        "Cut off and destroy affected leaves as soon as you see spots.",
+        "Space plants properly to allow good airflow, reducing humidity.",
+        "Water at the base of the plants to prevent leaves from getting wet.",
+        "Use mulch to prevent soil from splashing onto leaves, as the fungus lives in soil.",
+        "Avoid planting tomatoes in the same spot year after year.",
+        "Apply organic or chemical fungicides as needed to prevent further spread."
+      ]
+    },
+    {
+      "disease": "Tomato Yellow Virus",
+      "prevention_remedies": [
+        "Planting varieties that are resistant to TYLCV can significantly reduce the impact of the disease. Examples include 'Apple Yellow F1', 'Ella Bella', and 'Conde' for cherry and grape tomatoes, and 'BHN-1050' and 'Brenda F1' for plum tomatoes.",
+        "Rotating fields with non-susceptible crops can help reduce the occurrence of the disease.",
+        "Applying insecticides can reduce whitefly populations, which are the primary vectors for this virus. Insecticide applications are recommended 4-5 weeks after seedlings are initially planted and should continue as the fruit ripens.",
+        "Using reflective mulches can help repel whiteflies and reduce the spread of this virus.",
+        "Removing symptomatic plants and avoiding the planting of tomatoes near alfalfa can help prevent the spread of the virus."
+      ]
+    },
+    {
+      "disease": "Wheat Aphid",
+      "prevention_remedies": [
+        "Apply insecticidal soap or neem oil to the affected areas to kill aphids.",
+        "Use a strong stream of water to wash aphids off the wheat plants.",
+        "Ensure adequate soil moisture and fertilization, as stressed plants are more susceptible to aphid damage.",
+        "Introduce or attract natural predators like ladybugs, lacewings, and parasitic wasps to control aphid populations.",
+        "Reflective mulch can help deter aphids from settling on plants.",
+        "Plant crops like garlic or onions near wheat, as their scent can repel aphids."
+      ]
+    },
+    {
+      "disease": "Wheat Black Rust",
+      "prevention_remedies": [
+        "Use wheat varieties that are resistant to black rust, such as Lerma Rojo, Safed Lerma, Sonalika, and Choti Lerma.",
+        "Avoid excessive use of nitrogen as it can exacerbate the disease, so it's important to maintain balanced fertilization.",
+        "Remove alternate hosts like barberry and Mahonia species, which can serve as sources of inoculum.",
+        "Use appropriate fungicides to control the spread of the disease. Some recommended products include Zerox Fungicide, Tilt Fungicide, Dhanuka M-45 Fungicide, Amistar Fungicide, Godiwa Super Fungicide, and Borogold Fungicide.",
+        "Practice mixed cropping and crop rotation with suitable crops like legumes and mustard to break the disease cycle.",
+        "Regularly check wheat plants for early signs of rust (red-brown pustules) and take action quickly."
+      ]
+    },
+    {
+      "disease": "Wheat Brown Rust",
+      "prevention_remedies": [
+        "Choose wheat varieties like Raj 3765, Lok 1, Kalyansona that are resistant to the prevalent races of brown rust. However, be aware that resistance can break down over time as new races of the fungus emerge.",
+        "Apply fungicides as a preventive measure, especially at critical growth stages. For brown rust, a fungicide application at growth stage T2 (GS37-39) is recommended, when the flag leaf is just fully emerged. If brown rust is established on the second leaf and the flag leaf is not fully emerged, the fungicide may not protect the new tissue effectively.",
+        "Implement crop rotation and avoid continuous wheat planting to reduce the buildup of rust inoculum in the soil. Remove volunteer wheat plants and other grasses that can serve as hosts for the rust fungus.",
+        "Ensure proper spacing between plants to reduce humidity, which helps prevent the spread of rust.",
+        "Rotate crops to reduce the presence of rust spores in the soil.",
+        "Regularly inspect wheat fields for early signs of brown rust (small brown-orange pustules on leaves)."
+      ]
+    },
+    {
+      "disease": "Wheat Flag Smut",
+      "prevention_remedies": [
+        "Ensure seeds are free from smut spores before planting.",
+        "Treat seeds with fungicides like carboxin or thiram to protect against the fungus.",
+        "Use smut-resistant wheat varieties to reduce the risk of infection.",
+        "Rotate wheat with non-host crops to reduce the fungus in the soil.",
+        "Immediately remove and destroy infected plants to prevent the spread of spores.",
+        "Disinfect farm equipment to prevent spreading the fungus between fields."
+      ]
+    },
+    {
+      "disease": "Wheat Leaf Blight",
+      "prevention_remedies": [
+        "Use plant resistant wheat varieties such as NP4, NP52, NP200, NP809, NP824, E6160, E8682, Arnautka, K7340, HB384, HD2157, H574, HW2449, K899, K7333, and VL417.",
+        "Use clean, disease-free seeds. Pre-soaking seeds in water for four hours followed by a 10-minute dip in hot water at 52°C can help control seed-borne infections.",
+        "Use biofungicides like Tricomax and Milldown Bacillus subtilis. Tricomax inhibits the growth of infections by producing antibiotics, while Milldown Bacillus subtilis competes with disease-causing organisms and generates systemic acquired resistance to bacterial infections.",
+        "Avoid planting wheat in the same field for at least two years to reduce the buildup of inoculum.",
+        "Collect and burn infected plants to reduce the spread of the disease",
+        "Regularly inspect plants for symptoms (yellow-brown spots) and take action early to prevent spread."
+      ]
+    },
+    {
+      "disease": "Wheat Mite",
+      "prevention_remedies": [
+        "Regular watering helps to reduce mite populations, as they thrive in dry conditions.",
+        "Destroy volunteer wheat at least two weeks before planting winter wheat in the fall. This helps to eliminate a source of mites and viruses.",
+        "Use plant wheat varieties that are resistant to mite infestations, Wheat Streak Mosaic Virus (WSMV) and other diseases like TAM 110 and TAM 112. However, resistance to Triticum mosaic virus (TriMV) is not available, so controlling volunteer wheat is crucial.",
+        "Use appropriate miticides (such as dicofol or sulfur-based products) to control mite infestations.",
+        "Regularly check for signs of mites (yellow streaks or bronzed leaves) and apply control measures early.",
+        "Encourage natural predators, such as ladybugs or predatory mites, to control the mite population."
+      ]
+    },
+    {
+      "disease": "Wheat Powdery Mildew",
+      "prevention_remedies": [
+        "Plant wheat varieties that are resistant to powdery mildew like PBW 550, HD 2967, WH1105, KRL 213, HD 3086 and DBW 90.",
+        "Use fungicides containing triazoles or strobilurins to control the disease.",
+        "Ensure proper spacing between plants to reduce humidity, which promotes fungal growth.",
+        "Avoid overuse of nitrogen-based fertilizers, as excessive nitrogen encourages mildew growth.",
+        "Prune and destroy infected leaves or plants to prevent further spread.",
+        "Rotate crops to minimize the buildup of fungal spores in the soil."
+      ]
+    },
+    {
+      "disease": "Wheat Scab",
+      "prevention_remedies": [
+        "Plant wheat varieties that are resistant to Wheat Scab or Fusarium Head Blight like Truman, Jenkins, Pioneer 25R40, Bess and Shirley.",
+        "Rotate wheat with non-host crops like legumes or corn to reduce the buildup of the fungus in the soil.",
+        "Use fungicides containing triazoles during the flowering stage to control the disease. Products like Caramba and Prosaro have shown good results in multi-state trials.",
+        "Minimize moisture on wheat heads by avoiding overhead irrigation, especially during flowering.",
+        "Remove or plow under infected plant debris to reduce the fungus in the field.",
+        "Ensure proper plant spacing to promote airflow and reduce humidity around the plants."
+      ]
+    },
+    {
+      "disease": "Wheat Stem Fly",
+      "prevention_remedies": [
+        "Plant wheat in larger blocks rather than narrow strips to minimize the amount of field border adjacent to stubble where sawfly adults will be emerging. This reduces the part of the field most vulnerable to infestation.",
+        "Plant resistant varieties such as Bearpaw, Judee, Warhorse, or newer varieties like Fortify SF and Amplify SF, which are adapted to Colorado and other regions.",
+        "Rotate wheat with non-host crops like legumes to reduce stem fly populations in the field.",
+        "Introduce parasitoids like Bracon lissogaster and Bracon cephi, which are parasitic wasps that feed on wheat stem sawfly larvae.",
+        "Clear and destroy crop stubble and residue after harvest to eliminate breeding grounds for the flies.",
+        "Monitor wheat crops every 7 to 10 days from flag leaf emergence to early dough grain development. If stem rust is detected within a region, increase inspection frequency to every 4 to 7 days."
+      ]
+    },
+    {
+      "disease": "Wheat Yellow Rust",
+      "prevention_remedies": [
+        "Planting wheat varieties like Mace, KWS Zyatt, Skyfall, Gallant, RGT Gravity that are resistant to yellow rust is one of the most effective ways to manage the disease.",
+        "Use fungicides containing triazoles or strobilurins or SDHI early when the first signs of infection appear.",
+        "Removing volunteer wheat and previous wheat plants through tillage or herbicide can help break the disease cycle.",
+        "Yellow rust thrives in cool, moist conditions. Managing the environment to reduce humidity and avoid prolonged leaf wetness can help control the disease. This includes proper irrigation practices and ensuring good air circulation in the field.",
+        "Rotate wheat with non-host crops to reduce rust spores in the field.",
+        "Planting wheat at the optimal time can help avoid periods when the disease is most active. In cooler climates, planting later in the season can reduce the risk of early infection."
+      ]
+    },
+    {
+      "disease": "Cherry Powdery Mildew",
+      "prevention_remedies": [
+        "Choose cherry varieties resistant to powdery mildew like Stella, Black Tartarian, Lapins, Morello, Montmorency and Balaton.",
+        "Prune trees to improve air circulation, reducing the humidity that favours mildew growth.",
+        "It is crucial to manage irrigation, as early irrigation in a dry spring can stimulate early infections. The disease favours humid conditions and temperatures between 70°F to 80°F, so managing these conditions can help reduce the spread of the disease. Water the base of the trees to keep the foliage dry, as moisture encourages fungal growth.",
+        "Use fungicides such as sulfur, myclobutanil, or trifloxystrobin during early signs of infection.",
+        "Remove and destroy fallen leaves that may harbor the fungus.",
+        "Regularly inspect the trees for powdery mildew symptoms and act promptly."
+      ]
+    },
+    {
+      "disease": "Peach Bacterial Spot",
+      "prevention_remedies": [
+        "Use peach varieties that are resistant to bacterial spot such as Biscoe, Blazing Star, Candor, Contender, and Harrow Beauty.",
+        "Use copper-based bactericides during early growth stages to prevent infection. For instance, during the delayed dormant stage, applying 4 to 5 pounds of formulated 53% copper or 2 pounds of metallic copper can help suppress bacterial spot.",
+        "Prune trees to promote good air circulation, which helps reduce moisture on leaves.",
+        "Water at the base of trees to avoid wetting the foliage, as moisture encourages bacterial growth.",
+        "Clean pruning tools to prevent the spread of bacteria between trees.",
+        "Remove and destroy infected leaves and fruits to prevent the spread of bacteria."
+      ]
+    },
+    {
+      "disease": "Strawberry Leaf Scorch",
+      "prevention_remedies": [
+        "Use strawberry varieties that are resistant to leaf scorch such as Allstar, Jewel, Honeoye, Earliglow, Sparkle and Cavendish.",
+        "Space plants properly and prune regularly to promote airflow, reducing humidity that encourages fungal growth.",
+        "Use fungicides containing captan or myclobutanil at the first signs of infection.",
+        "Avoid overhead watering and water the base of plants to keep leaves dry.",
+        "Prune and destroy infected leaves to prevent the spread of the disease.",
+        "Remove dead leaves and debris from around plants to reduce sources of fungal spores."
+      ]
+    },
+    {
+      "disease": "Orange Huanglongbing",
+      "prevention_remedies": [
+        "Prevent the spread of the disease by quarantining affected areas and inspecting citrus plants for signs of HLB or the Asian citrus psyllid, which spreads the disease.",
+        "Promptly remove and destroy any trees showing symptoms of HLB to prevent further infection.",
+        "Use registered budwood from reputable sources when grafting citrus trees to avoid introducing infected plant material.",
+        "Apply systemic insecticides like Imidacloprid, Thiamethoxam, Clothianidin, Dimethoate or Pyrethroids to the trunks or roots of trees to control the Asian citrus psyllid, which is the primary vector of HLB.",
+        "Sanitize tools and equipment between uses to prevent the spread of the bacteria.",
+        "Regularly inspect citrus trees for symptoms such as yellowing leaves, blotchy mottling, and small, lopsided fruit."
+      ]
+    },
+    {
+      "disease": "Squash Powdery Mildew",
+      "prevention_remedies": [
+        "Use squash varieties that are resistant to powdery mildew such as Dunja, Slick Pik YS 26, Golden Glory, Desert, Success PM and Yellowfin.",
+        "Space plants properly and prune to promote good airflow, reducing humidity that favours mildew growth.",
+        "Use fungicides like sulfur, myclobutanil, or potassium bicarbonate at the first signs of infection.",
+        "Water plants in the morning and at the base of the plants to ensure they have sufficient moisture throughout the day without leaving leaves wet, which can encourage disease.",
+        "Prune and destroy infected leaves to prevent the spread of the disease.",
+        "Regularly check for symptoms (white powder on leaves) and act promptly."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "crops": [
+    {
+      "name": "Apple",
+      "fertilizers": [
+        "Calcium Nitrate",
+        "Urea",
+        "Compost",
+        "Ammonium Sulfate",
+        "Bone Meal"
+      ],
+      "precautions": [
+        "Prune trees to improve airflow and reduce fungal infections",
+        "Use disease-resistant apple varieties",
+        "Remove and destroy infected leaves and fruits",
+        "Apply fungicides during critical growth stages",
+        "Ensure proper irrigation to prevent root rot"
+      ]
+    },
+    {
+      "name": "Bell Pepper",
+      "fertilizers": [
+        "Balanced NPK 10-10-10",
+        "Calcium Nitrate",
+        "Compost",
+        "Fish Emulsion",
+        "Epsom Salt (Magnesium Sulfate)"
+      ],
+      "precautions": [
+        "Avoid overhead watering to prevent leaf diseases",
+        "Provide proper spacing for good air circulation",
+        "Use mulch to retain soil moisture and reduce weed growth",
+        "Rotate crops yearly to avoid soil-borne pathogens",
+        "Inspect plants regularly for pests and remove infected leaves"
+      ]
+    },
+    {
+      "name": "Blueberry",
+      "fertilizers": [
+        "Ammonium Sulfate",
+        "Urea",
+        "Cottonseed Meal",
+        "Fish Emulsion",
+        "Sulfur-Based Fertilizer"
+      ],
+      "precautions": [
+        "Maintain soil pH between 4.5 and 5.5 for optimal growth",
+        "Prune old stems to promote new growth and reduce disease risk",
+        "Ensure good drainage to prevent root rot",
+        "Apply mulch to maintain moisture and regulate temperature",
+        "Monitor for fungal diseases and use organic sprays"
+      ]
+    },
+    {
+      "name": "Cherry",
+      "fertilizers": [
+        "Balanced NPK 10-10-10",
+        "Calcium Nitrate",
+        "Bone Meal",
+        "Fish Emulsion",
+        "Compost"
+      ],
+      "precautions": [
+        "Prune regularly to promote good airflow",
+        "Monitor for fungal infections and apply fungicides as needed",
+        "Avoid excessive nitrogen fertilization to prevent disease susceptibility",
+        "Use mulch to retain moisture and prevent weed growth",
+        "Control pests such as cherry fruit fly and aphids"
+      ]
+    },
+    {
+      "name": "Corn",
+      "fertilizers": [
+        "Urea",
+        "Ammonium Nitrate",
+        "Phosphorus-Rich Fertilizer",
+        "Potassium Sulfate",
+        "Manure-Based Organic Fertilizer"
+      ],
+      "precautions": [
+        "Rotate crops to prevent disease build-up in soil",
+        "Plant resistant corn varieties",
+        "Ensure proper row spacing for air circulation",
+        "Apply fungicides if fungal disease is detected",
+        "Control pests like armyworms and grasshoppers"
+      ]
+    },
+    {
+      "name": "Cotton",
+      "fertilizers": [
+        "Urea",
+        "Phosphorus-Based Fertilizer",
+        "Potassium Nitrate",
+        "Zinc Sulfate",
+        "Organic Compost"
+      ],
+      "precautions": [
+        "Use resistant varieties to prevent bollworm and aphid attacks",
+        "Apply pesticides carefully to control pests",
+        "Monitor for bacterial blight and use appropriate fungicides",
+        "Avoid excessive nitrogen application to prevent excessive vegetative growth",
+        "Implement crop rotation with legumes to improve soil health"
+      ]
+    },
+    {
+      "name": "Grape",
+      "fertilizers": [
+        "Balanced NPK 10-10-10",
+        "Calcium Nitrate",
+        "Compost",
+        "Potassium Sulfate",
+        "Fish Emulsion"
+      ],
+      "precautions": [
+        "Prune vines to promote airflow and reduce fungal infections",
+        "Monitor for pests such as grapevine moths",
+        "Apply fungicides during critical growth stages",
+        "Use mulch to retain soil moisture and prevent weed growth",
+        "Ensure proper trellising to prevent disease spread"
+      ]
+    },
+    {
+      "name": "Peach",
+      "fertilizers": [
+        "Calcium Nitrate",
+        "Compost",
+        "Bone Meal",
+        "Fish Emulsion",
+        "Ammonium Sulfate"
+      ],
+      "precautions": [
+        "Prune trees to improve airflow and reduce fungal diseases",
+        "Apply fungicides before bud break",
+        "Monitor for insect pests like peach borers",
+        "Ensure well-drained soil to prevent root rot",
+        "Use disease-resistant varieties"
+      ]
+    },
+    {
+      "name": "Potato",
+      "fertilizers": [
+        "Urea",
+        "Superphosphate",
+        "Potash Fertilizer",
+        "Compost",
+        "Fish Emulsion"
+      ],
+      "precautions": [
+        "Rotate crops to prevent soil-borne diseases",
+        "Avoid excessive nitrogen to prevent excessive foliage growth",
+        "Monitor for fungal infections and apply fungicides",
+        "Control pests like potato beetles",
+        "Ensure well-drained soil to prevent tuber rot"
+      ]
+    },
+    {
+      "name": "Strawberry",
+      "fertilizers": [
+        "Balanced NPK 10-10-10",
+        "Fish Emulsion",
+        "Compost",
+        "Bone Meal",
+        "Calcium Nitrate"
+      ],
+      "precautions": [
+        "Mulch around plants to suppress weeds and retain moisture",
+        "Monitor for fungal infections and apply fungicides as needed",
+        "Ensure proper spacing to improve airflow",
+        "Control pests like spider mites and aphids",
+        "Use disease-resistant strawberry varieties"
+      ]
+    },
+    {
+      "name": "Raspberry",
+      "fertilizers": [
+        "Balanced NPK 10-10-10",
+        "Compost",
+        "Fish Emulsion",
+        "Bone Meal",
+        "Ammonium Sulfate"
+      ],
+      "precautions": [
+        "Ensure well-drained soil to prevent root rot",
+        "Prune canes annually to improve airflow",
+        "Monitor for fungal diseases and apply fungicides",
+        "Use mulch to retain moisture and suppress weeds",
+        "Control pests like raspberry beetles and aphids"
+      ]
+    },
+    {
+      "name": "Rice",
+      "fertilizers": [
+        "Urea",
+        "DAP (Di-Ammonium Phosphate)",
+        "Potassium Chloride",
+        "Zinc Sulfate",
+        "Organic Manure"
+      ],
+      "precautions": [
+        "Use flood irrigation to suppress weeds and pests",
+        "Apply fungicides to prevent blast and sheath blight",
+        "Use disease-resistant rice varieties",
+        "Monitor nitrogen levels to avoid excessive vegetative growth",
+        "Rotate crops with legumes to improve soil fertility"
+      ]
+    },
+    {
+      "name": "Soybean",
+      "fertilizers": [
+        "Rhizobium Inoculant",
+        "Phosphorus-Rich Fertilizer",
+        "Potassium Sulfate",
+        "Compost",
+        "Boron Supplement"
+      ],
+      "precautions": [
+        "Rotate crops with cereals to reduce disease risk",
+        "Ensure proper drainage to prevent root rot",
+        "Use disease-resistant soybean varieties",
+        "Apply fungicides to manage rust and blight",
+        "Monitor for pests like soybean aphids and apply biological control"
+      ]
+    },
+    {
+      "name": "Sugarcane",
+      "fertilizers": [
+        "Urea",
+        "Phosphorus Fertilizer",
+        "Potassium Nitrate",
+        "Zinc Sulfate",
+        "Compost"
+      ],
+      "precautions": [
+        "Use disease-free planting material",
+        "Ensure proper field drainage to avoid root diseases",
+        "Monitor for pests like borers and apply integrated pest management",
+        "Avoid excessive nitrogen application to prevent lodging",
+        "Rotate with legumes to improve soil health"
+      ]
+    },
+    {
+      "name": "Tomato",
+      "fertilizers": [
+        "Calcium Nitrate",
+        "Balanced NPK 10-10-10",
+        "Compost",
+        "Fish Emulsion",
+        "Epsom Salt (Magnesium Sulfate)"
+      ],
+      "precautions": [
+        "Stake or cage plants to improve air circulation",
+        "Use mulch to retain moisture and prevent soil-borne diseases",
+        "Avoid overhead watering to prevent fungal infections",
+        "Rotate crops to prevent soil-borne pathogens",
+        "Monitor for pests like whiteflies and apply organic pesticides"
+      ]
+    },
+    {
+      "name": "Wheat",
+      "fertilizers": [
+        "Urea",
+        "DAP (Di-Ammonium Phosphate)",
+        "Potassium Sulfate",
+        "Zinc Sulfate",
+        "Compost"
+      ],
+      "precautions": [
+        "Use disease-resistant wheat varieties",
+        "Monitor for fungal diseases like rust and apply fungicides",
+        "Ensure proper spacing to improve airflow",
+        "Avoid excessive nitrogen fertilization to reduce lodging",
+        "Rotate with legumes to maintain soil fertility"
+      ]
+    }
+  ]
+}
