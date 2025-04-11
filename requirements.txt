@@ -1,7 +1,0 @@
-numpy
-pandas
-tensorflow
-keras
-streamlit
-pymongo
-opencv-python
