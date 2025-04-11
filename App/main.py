@@ -21,7 +21,7 @@ def segmentation_app(segmentation, image):
     
     result_image, defected_pixels, undefected_pixels, disease_percentage = segmentation.segmentation_process(input_image)
     
-    st.image(result_image, caption='Segmented Image.', use_column_width=True)
+    st.image(result_image, caption='Segmented Image.', use_container_width=True)
     
     # st.write(f"Defected Area (pixels): {defected_pixels}")
     # st.write(f"Undefected Area (pixels): {undefected_pixels}")
