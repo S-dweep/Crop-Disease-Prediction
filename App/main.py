@@ -11,21 +11,8 @@ def classification_app(classification, image):
 
 def segmentation_app(segmentation, image):
     input_image = Image.open(image)
-<<<<<<< HEAD
     result_image, disease_percentage, defection_ratio = segmentation.segmentation_process(input_image)
     return result_image, disease_percentage, defection_ratio
-=======
-    
-    result_image, defected_pixels, undefected_pixels, disease_percentage = segmentation.segmentation_process(input_image)
-    
-    st.image(result_image, caption='Segmented Image.', use_container_width=True)
-    
-    # st.write(f"Defected Area (pixels): {defected_pixels}")
-    # st.write(f"Undefected Area (pixels): {undefected_pixels}")
-    st.write(f"Disease Percentage: {disease_percentage:.2f}%")
-    
-    return disease_percentage
->>>>>>> 3de164b3e6d86b53269a35b14396ff1e5401a308
 
 def start_streamlit_app(classification, segmentation):
     st.title("🌿🍁 Crop Disease Classification and Segmentation 🌾🍀")
