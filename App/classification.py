@@ -3,7 +3,8 @@ from PIL import Image
 import tensorflow as tf
 
 class Classification:
-    def __init__(self):
+    def __init__(self) -> None:
+        # Mapping of model names to their respective class names
         self.model_class_mapping = {
             'apple_bell_pepper': ['Apple_Black_Rot', 'Apple_Cedar_Rust', 'Apple_Cedar_Rust', 'Apple_Scab', 'Bell_Pepper_Bacterial_Spot', 'Bell_Pepper_Leaf_Spot'],
             'corn': ['Corn_Common_Rust', 'Corn_Ear_Rot', 'Corn_Fall_Army_Worm', 'Corn_Grasshopper', 'Corn_Gray_Leaf_Spot', 'Corn_Leaf_Beetle', 'Corn_Leaf_Blight', 'Corn_Leaf_spot', 'Corn_Stem_Borer', 'Corn_Streak_Virus'],
@@ -19,29 +20,41 @@ class Classification:
             'z_other': ['Cherry_Powdery_Mildew', 'Orange_Huanglongbing', 'Peach_Bacterial_Spot', 'Squash_Powdery_Mildew', 'Strawberry_Leaf_Scorch'],
         }
 
-    def load_model(self, model_name):
-        model_path = f'Models/{model_name}.keras'
-        
-        class_names = self.model_class_mapping[model_name]
-        
+    def load_model(self, model_name) -> tf.keras.Model:
+        model_path = f'Models/{model_name}.keras'   
         print(f"calling {model_name} model")
-        
+        # Load the pre-trained model
+        if model_name not in self.model_class_mapping:
+            raise ValueError(f"Model '{model_name}' not found in class name mapping.")
         model = tf.keras.models.load_model(model_path)
-        
+        print(f"Model '{model_name}' loaded successfully.")
         return model
 
-    def load_image(self, filename):
-        img = Image.open(filename)
-        img = img.resize((224, 224)) 
-         
+    def load_image(self, image_path: str, target_size=(224,224)) -> tf.Tensor:
+        img = Image.open(image_path)
+        # Resize the image to the expected input size of the model
+        img = img.resize(target_size) 
+        # Convert the image to an array and normalize it
         img_array = tf.keras.utils.img_to_array(img)
+        # expand dimensions to match the model's input shape
         img_array = tf.expand_dims(img_array, 0)  
-        
         return img_array
 
-    def predict_disease(self, image, model, model_name):
+    def predict_disease(self, image, model: tf.Tensor, model_name: str) -> str:
+        """
+        Predict the disease from the image using the specified model.
+        Args:
+            image (Image.Image): The input image to be classified.
+            model (tf.keras.Model): The pre-trained model for classification.
+            model_name (str): The name of the model being used.
+        Returns:
+            str: The predicted class name of the disease.
+        """      
+        # Ensure the model name is in lowercase to match the mapping
+        if model_name is None or not isinstance(model_name, str) :
+            raise ValueError("Model name cannot be None or empty.")
         model_name = model_name.lower()
-        
+        # Check if the model name exists in the mapping
         if model_name not in self.model_class_mapping:
             raise ValueError(f"Model '{model_name}' not found in class name mapping.")
         
@@ -59,10 +72,8 @@ class Classification:
         
         return max_class_name
 
-    def classification_process(self, model_name, image):
+    def classification_process(self, model_name: str, image: Image.Image) -> str:
         model = self.load_model(model_name)
         image = self.load_image(image)
-        
         disease_name = self.predict_disease(image, model, model_name)
-        
         return disease_name
