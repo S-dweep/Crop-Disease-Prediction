@@ -19,7 +19,7 @@ This is an **interactive Streamlit web application** that allows users to upload
 
 
 ## 🗂️ Project Structure
-
+```
 Crop-Disease-Streamlit/
 ├── App/
 │   ├── classification.py
@@ -46,7 +46,7 @@ Crop-Disease-Streamlit/
 ├── .gitignore
 ├── README.md
 ├── requirments.txt        
-
+```
 
 
 
