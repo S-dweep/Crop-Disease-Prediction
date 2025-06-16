@@ -4,7 +4,6 @@
 
 This is an **interactive Streamlit web application** that allows users to upload crop images and detect whether the plant is healthy or infected using deep learning models. If infected, the app identifies the disease and suggests remedies. If healthy, it suggests crop type, precautions, and useful fertilizers.
 
----
 
 ## 🎯 Objective
 
@@ -18,14 +17,12 @@ This is an **interactive Streamlit web application** that allows users to upload
   - Identify **disease**.
   - Suggest **remedies** for the disease.
 
----
 
 ## 🗂️ Project Structure
 
 pass
 
 
----
 
 ## 🧠 Technologies Used
 
@@ -36,7 +33,7 @@ pass
 | PIL (Pillow)| Image file processing                |
 | TensorFlow  | (Optional) Deep Learning models      |
 
----
+
 
 ## 🚀 How to Run the App
 
@@ -94,11 +91,11 @@ The image is passed to `classification_app()` which returns:
 
 <!-- ScreenShots: -->
 
-### App Screenshot - Upload Interface: 
+## App Screenshot - Upload Interface: 
 
 ![Upload Image Interface](output_ss/homepage.png)
 
-### App Screenshot – Healthy Result: 
+## App Screenshot – Healthy Result: 
 
 ![Healthy Crop Result](output_ss\Potatohealthy1.png)
 ![Healthy Crop Result](output_ss\Potatohealthy2.png)
@@ -107,7 +104,7 @@ The image is passed to `classification_app()` which returns:
 ![Healthy Crop Result](output_ss\Rasberryhealthy2.png)
 ![Healthy Crop Result](output_ss\Rasberryhealthy3.png)
 
-### App Screenshot – Infected Result
+## App Screenshot – Infected Result
 
 ![Infected Crop Result](output_ss\Appleinfected1.png)
 ![Infected Crop Result](output_ss\Appleinfected2.png)
