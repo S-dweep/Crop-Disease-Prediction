@@ -15,7 +15,7 @@ This is an **interactive Streamlit web application** that allows users to upload
   - Suggest **precautions** and **fertilizers**.
 - If infected:
   - Identify **disease**.
-  - Suggest **remedies** for the disease.
+  - Suggest possible **remedies** for the disease.
 
 
 ## 🗂️ Project Structure
