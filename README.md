@@ -1,4 +1,4 @@
-# 🌿🍁 Crop Disease Detection App (Streamlit) 🌾🍀
+# 🌿🍁 Crop Disease Prediction System 🌾🍀
 
 ## 📌 Overview
 
